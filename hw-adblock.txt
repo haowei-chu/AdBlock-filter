@@ -4,3 +4,15 @@
 ! Homepage: https://github.com/haowei-chu
 !
 ! Repo: https://github.com/haowei-chu/AdBlock-filter
+
+
+! ----- START https://www.metservice.com/ -----
+www.metservice.com##DIV[id="fuse-slot-21816204874-1"][class="fuse-slot up-show"]
+www.metservice.com##DIV[id="google_image_div"]
+www.metservice.com##DIV[id="fuse-slot-21816204874-2"][class="fuse-slot up-show"]
+www.metservice.com##DIV[id="google_center_div"]
+www.metservice.com##SECTION[class="BannerAd BannerAd--header BannerAd-heightReset"]
+www.metservice.com##DIV[id="google_ads_iframe_9734223/SideBanner_NewSite_V2_7__container__"]
+www.metservice.com##DIV[class="ahover"]
+! ----- END https://www.metservice.com/ -----
+
