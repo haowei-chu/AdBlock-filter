@@ -30,3 +30,12 @@ www.worldometers.info##DIV[id="google_ads_iframe_/15184186/worldometers_Left_Sid
 www.worldometers.info##DIV[id="google_ads_iframe_/15184186/worldometers_728x90_970x90_320x50_Top_0__container__"]
 ! ----- END https://www.worldometers.info/ -----
 
+
+! ----- START https://camelcamelcamel.com/ -----
+camelcamelcamel.com##DIV[id="google_ads_iframe_/15184186/camelcamelcamel_sidewall_right_0__container__"]
+camelcamelcamel.com##DIV[class="str-adunit str-card-exp str-adunit-300x250 str-banner"]
+camelcamelcamel.com##DIV[id="camelcamelcamel_sidewall_right"][class="up-show"]
+camelcamelcamel.com##DIV[id="google_ads_iframe_/15184186/camelcamelcamel_sidewall_left_0__container__"]
+camelcamelcamel.com##DIV[id="camelcamelcamel_sidewall_left"][class="up-show"]
+! ----- END https://camelcamelcamel.com/ -----
+
