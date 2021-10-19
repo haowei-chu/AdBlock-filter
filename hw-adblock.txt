@@ -16,3 +16,17 @@ www.metservice.com##DIV[id="google_ads_iframe_9734223/SideBanner_NewSite_V2_7__c
 www.metservice.com##DIV[class="ahover"]
 ! ----- END https://www.metservice.com/ -----
 
+
+! ----- START https://www.worldometers.info/ -----
+www.worldometers.info##IFRAME[id="5b7c808047-199-0"]
+www.worldometers.info##IFRAME[id="5b7da0ae34-199-5"]
+www.worldometers.info##IFRAME[id="google_ads_iframe_/15184186/worldometers_Left_Sidewall_0"]
+www.worldometers.info##IFRAME[src="javascript:'<html><head></head><body style=\"margin:0 auto\"><script>var uponit=true; var upapi=true; </script></body></html>'"]
+www.worldometers.info##IFRAME[id="google_ads_iframe_/15184186/worldometers_728x90_970x90_320x50_Top_0"]
+www.worldometers.info##DIV[id="google_ads_iframe_/15184186/worldometers_300x600_160x600_300x250_336x280_Right_0__container__"]
+www.worldometers.info##DIV[id="google_ads_iframe_/15184186/worldometers_300x250_right_1_0__container__"]
+www.worldometers.info##DIV[id="google_ads_iframe_/15184186/worldometers_300x600_160x600_300x250_336x280_Right_2_0__container__"]
+www.worldometers.info##DIV[id="google_ads_iframe_/15184186/worldometers_Left_Sidewall_0__container__"]
+www.worldometers.info##DIV[id="google_ads_iframe_/15184186/worldometers_728x90_970x90_320x50_Top_0__container__"]
+! ----- END https://www.worldometers.info/ -----
+
