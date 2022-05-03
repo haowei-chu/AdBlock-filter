@@ -14,6 +14,7 @@ www.metservice.com##DIV[id="google_center_div"]
 www.metservice.com##SECTION[class="BannerAd BannerAd--header BannerAd-heightReset"]
 www.metservice.com##DIV[id="google_ads_iframe_9734223/SideBanner_NewSite_V2_7__container__"]
 www.metservice.com##DIV[class="ahover"]
+www.metservice.com##DIV[id="google_ads_iframe_9734223/SideBanner_NewSite_Chch_Scrolling_0__container__"]
 ! ----- END https://www.metservice.com/ -----
 
 
